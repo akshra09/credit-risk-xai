@@ -153,10 +153,3 @@ credit-risk-xai/
 ├── docker-compose.yml
 └── requirements.txt
 ```
-
-## Why this project
-
-Pairs with my [deep hedging project](https://github.com/akshra09) (GRU-based
-options replication) to show breadth across derivatives risk and credit
-risk — both core quant/risk-engineering domains — with consistent
-production practices (FastAPI, Docker, CI/CD) across both.
