@@ -1,0 +1,10 @@
+{
+  "logreg_auc": 0.8589,
+  "xgb_auc": 0.8673,
+  "xgb_pr_auc": 0.3982,
+  "xgb_brier_score": 0.1377,
+  "n_train": 120000,
+  "n_test": 30000,
+  "n_features": 28,
+  "default_rate": 0.0668
+}
